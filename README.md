@@ -25,7 +25,7 @@
 🔍 A node.js application that allows you to view, update, add and delete all products within the ecommerce database using a program such as Insomnia or Postman.
 
   
-🎥 The full movie file showing functionality of the application can be found [here](https://drive.google.com/file/d/1gn0tYcUIUJw8dln2SzQesmjGp_qh4CTR/view)
+🎥 The full movie file showing functionality of the application can be found [here](https://drive.google.com/file/d/1wA4pCBGHlDY_HshUt5AVxebnpbEgaeU7/view)
   
 ## User Story
   
